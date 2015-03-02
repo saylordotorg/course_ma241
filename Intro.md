@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA241: Real Analysis I"
+course_description: "A detailed introduction to the rigorous examination of the real number system and the foundations of calculus."
+next: ../Unit02
+previous: ../../../
+---
 Course Syllabus for "MA241: Real Analysis I"
 --------------------------------------------
 

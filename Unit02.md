@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA241: Real Analysis I"
+course_description: "A detailed introduction to the rigorous examination of the real number system and the foundations of calculus."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Metric Spaces** <span id="2"></span> 
 *In this unit, we will learn about various topological notions and will
 be introduced to the more abstract notion of a metric space. A metric is

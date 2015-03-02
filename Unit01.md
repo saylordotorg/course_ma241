@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA241: Real Analysis I"
+course_description: "A detailed introduction to the rigorous examination of the real number system and the foundations of calculus."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: The Real Number System** <span id="1"></span> 
 *In this unit, we will learn or be reminded of the tools of set theory,
 which underlie rigorous mathematical proof, before investigating the

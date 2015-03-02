@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA241: Real Analysis I"
+course_description: "A detailed introduction to the rigorous examination of the real number system and the foundations of calculus."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Functions and Continuity** <span id="3"></span> 
 *In this unit, you will explore the properties of continuous functions.
 You should be familiar with continuity from calculus; indeed, many of

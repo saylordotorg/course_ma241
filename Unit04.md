@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA241: Real Analysis I"
+course_description: "A detailed introduction to the rigorous examination of the real number system and the foundations of calculus."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Differentiability and Integration** <span id="4"></span> 
 *In Calculus you learned the limit definition of the derivative and
 connected it to a picture of a sequence of secant lines converging to a
