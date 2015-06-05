@@ -178,4 +178,10 @@ others. Do not be discouraged if you exceed the time estimates! As long
 as you are gaining mastery of the material, you are completing the
 course successfully.  
   
+**Table of Contents:** You can find the course's units at the links below.
 
+- [Unit 1](https://legacy.saylor.org/ma241/Unit01/)
+- [Unit 2](https://legacy.saylor.org/ma241/Unit02/)
+- [Unit 3](https://legacy.saylor.org/ma241/Unit03/)
+- [Unit 4](https://legacy.saylor.org/ma241/Unit04/)
+- [Unit 5](https://legacy.saylor.org/ma241/Unit05/)
