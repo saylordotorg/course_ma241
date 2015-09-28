@@ -195,3 +195,4 @@ course successfully.
 - [Unit 3](https://legacy.saylor.org/ma241/Unit03/)
 - [Unit 4](https://legacy.saylor.org/ma241/Unit04/)
 - [Unit 5](https://legacy.saylor.org/ma241/Unit05/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/MA/MA241/MA241-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/MA/MA241/MA241-FinalExam-Answers.html)
