@@ -60,7 +60,7 @@ Upon successful completion of this unit, you will be able to:
     Definitions”**
     Link: The Trillia Group: Elias Zakon’s *Mathematical Analysis I*:
     [“Chapter 4: Function Limits and Continuity: Section 1: Basic
-    Definitions”](http://www.saylor.org/site/wp-content/uploads/2012/02/Real-Analysis-I-Zakon-1-30-11-OTC.pdf)
+    Definitions”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/Real-Analysis-I-Zakon-1-30-11-OTC.pdf)
     (PDF)  
       
      Instructions: Please read the indicated section on pages 149-157.  
@@ -79,7 +79,7 @@ id="3.1.2"></span> 
     Link: The Trillia Group: Elias Zakon’s *Mathematical Analysis I*:
     [“Chapter 4: Function Limits and Continuity: Section 2: Some General
     Theorems on Limits and
-    Continuity”](http://www.saylor.org/site/wp-content/uploads/2012/02/Real-Analysis-I-Zakon-1-30-11-OTC.pdf)
+    Continuity”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/Real-Analysis-I-Zakon-1-30-11-OTC.pdf)
     (PDF)  
       
      Instructions: Please read “Some General Theorems on Limits and
@@ -139,7 +139,7 @@ id="3.1.2"></span> 
     Link: The Trillia Group: Elias Zakon’s *Mathematical Analysis I*:
     [“Chapter 4: Function Limits and Continuity: Section 3: Operations
     on Limits and Rational
-    Functions”](http://www.saylor.org/site/wp-content/uploads/2012/02/Real-Analysis-I-Zakon-1-30-11-OTC.pdf)
+    Functions”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/Real-Analysis-I-Zakon-1-30-11-OTC.pdf)
     (PDF)  
       
      Instructions: Please read the indicated section on pages 170-174.  
@@ -157,7 +157,7 @@ id="3.1.2"></span> 
     Link: The Trillia Group: Elias Zakon’s *Mathematical Analysis I*:
     [“Chapter 4: Function Limits and Continuity: Section 4: Infinite
     Limits and Operations in
-    E\*”](http://www.saylor.org/site/wp-content/uploads/2012/02/Real-Analysis-I-Zakon-1-30-11-OTC.pdf)
+    E\*”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/Real-Analysis-I-Zakon-1-30-11-OTC.pdf)
     (PDF)  
       
      Instructions: Please read the indicated section on pages 177-180.  
@@ -174,7 +174,7 @@ id="3.1.2"></span> 
     Link: The Trillia Group: Elias Zakon’s *Mathematical Analysis I*:
     [“Chapter 4: Function Limits and Continuity: Section 4: Problems on
     Limits and Operations in
-    E\*”](http://www.saylor.org/site/wp-content/uploads/2012/02/Real-Analysis-I-Zakon-1-30-11-OTC.pdf) (PDF)  
+    E\*”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/Real-Analysis-I-Zakon-1-30-11-OTC.pdf) (PDF)  
       
      Instructions: Please scroll down to page 181, and work through
     problem 4.  
@@ -191,7 +191,7 @@ id="3.1.2"></span> 
     Functions”**
     Link: The Trillia Group: Elias Zakon’s *Mathematical Analysis I*:
     [“Chapter 4: Function Limits and Continuity: Section 5: Monotone
-    Functions”](http://www.saylor.org/site/wp-content/uploads/2012/02/Real-Analysis-I-Zakon-1-30-11-OTC.pdf)
+    Functions”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/Real-Analysis-I-Zakon-1-30-11-OTC.pdf)
     (PDF)  
       
      Instructions: Please read the “Monotone Functions” section on pages
@@ -210,7 +210,7 @@ id="3.1.2"></span> 
     Link: The Trillia Group: Elias Zakon’s *Mathematical Analysis I*:
     [“Chapter 4: Function Limits and Continuity: Section 8: Continuity
     on Compact Sets and Uniform
-    Continuity”](http://www.saylor.org/site/wp-content/uploads/2012/02/Real-Analysis-I-Zakon-1-30-11-OTC.pdf)
+    Continuity”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/Real-Analysis-I-Zakon-1-30-11-OTC.pdf)
     (PDF)  
       
      Instructions: Please read the indicated section on pages 194-200.  
@@ -228,7 +228,7 @@ id="3.1.2"></span> 
     Link: The Trillia Group: Elias Zakon’s *Mathematical Analysis I*:
     [“Chapter 4: Function Limits and Continuity: Section 9: The
     Intermediate Value
-    Property”](http://www.saylor.org/site/wp-content/uploads/2012/02/Real-Analysis-I-Zakon-1-30-11-OTC.pdf)
+    Property”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/Real-Analysis-I-Zakon-1-30-11-OTC.pdf)
     (PDF)  
       
      Instructions: Please read “The Intermediate Value Property” on
@@ -290,7 +290,7 @@ id="3.1.2"></span> 
     Link: The Trillia Group: Elias Zakon’s *Mathematical Analysis I*:
     [“Chapter 4: Function Limits and Continuity: Section 10: Arcs and
     Curves; Connected
-    Sets”](http://www.saylor.org/site/wp-content/uploads/2012/02/Real-Analysis-I-Zakon-1-30-11-OTC.pdf)
+    Sets”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/Real-Analysis-I-Zakon-1-30-11-OTC.pdf)
     (PDF)  
       
      Instructions: Please read “Arcs and Curves; Connected Sets” on
@@ -327,7 +327,7 @@ id="3.1.2"></span> 
     Link: University of California, San Diego: Jiri Lebl’s *Basic
     Analysis: Introduction to Real Analysis:* [“Chapter 6, Section 1:
     Pointwise and Uniform
-    Convergence”](http://www.saylor.org/site/wp-content/uploads/2013/06/MA241-BasicAnalysis-JiriLebl-6.3.2013.pdf)
+    Convergence”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/MA241-BasicAnalysis-JiriLebl-6.3.2013.pdf)
     (PDF)  
       
      Instructions: Please read the indicated section on pages 189-193.  

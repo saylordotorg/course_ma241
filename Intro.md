@@ -127,7 +127,7 @@ computer;
  √    be competent in the English language;  
   
  √    have read the [Saylor Student
-Handbook](http://www.saylor.org/site/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf);
+Handbook](https://resources.saylor.org/archived/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf);
 and  
   
  √   have
@@ -165,7 +165,7 @@ following:
     I](http://www.trillia.com/zakon-analysisI.html)*
 -   University of California, San Diego: Jiri Lebl’s *[Basic Analysis:
     Introduction to Real
-    Analysis](http://www.saylor.org/site/wp-content/uploads/2013/06/MA241-BasicAnalysis-JiriLebl-6.3.2013.pdf)*
+    Analysis](https://resources.saylor.org/archived/wp-content/uploads/2013/06/MA241-BasicAnalysis-JiriLebl-6.3.2013.pdf)*
 -   YouTube: Harvey Mudd College: Professor Francis Su’s *[Real
     Analysis](http://www.youtube.com/user/HarveyMuddCollegeEDU#p/u/0/sqEyWLGvvdw)*
 

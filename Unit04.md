@@ -55,7 +55,7 @@ id="4.1.1"></span> 
     Link: The Trillia Group: Elias Zakon’s *Mathematical Analysis I*:
     [“Chapter 5: Differentiation and Antidifferentiation: Section
     1: Derivatives of Functions of One
-    Variable”](http://www.saylor.org/site/wp-content/uploads/2012/02/Real-Analysis-I-Zakon-1-30-11-OTC.pdf)
+    Variable”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/Real-Analysis-I-Zakon-1-30-11-OTC.pdf)
     (PDF)  
       
      Instructions: Please read the indicated section on pages 251-257.  
@@ -74,7 +74,7 @@ id="4.1.2"></span> 
     Link: The Trillia Group: Elias Zakon’s *Mathematical Analysis I*:
     [“Chapter 5: Differentiation and Antidifferentiation: Section 2:
     Derivatives of Extended-Real Valued
-    Functions”](http://www.saylor.org/site/wp-content/uploads/2012/02/Real-Analysis-I-Zakon-1-30-11-OTC.pdf)
+    Functions”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/Real-Analysis-I-Zakon-1-30-11-OTC.pdf)
     (PDF)  
       
      Instructions: Please read “Derivatives of Extended-Real Valued
@@ -93,7 +93,7 @@ id="4.1.2"></span> 
     Link: The Trillia Group: Elias Zakon’s *Mathematical Analysis I*:
     [“Chapter 5: Differentiation and Antidifferentiation: Section 3:
     L’Hopital’s
-    Rule”](http://www.saylor.org/site/wp-content/uploads/2012/02/Real-Analysis-I-Zakon-1-30-11-OTC.pdf)
+    Rule”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/Real-Analysis-I-Zakon-1-30-11-OTC.pdf)
     (PDF)  
       
      Instructions: Please read “L’Hopital’s Rule” on pages 266-269.  
@@ -110,7 +110,7 @@ id="4.1.2"></span> 
     Link: The Trillia Group: Elias Zakon’s *Mathematical Analysis I*:
     [“Chapter 5: Differentiation and Antidifferentiation: Section 3:
     Problems on L’Hopital’s
-    Rule”](http://www.saylor.org/site/wp-content/uploads/2012/02/Real-Analysis-I-Zakon-1-30-11-OTC.pdf)
+    Rule”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/Real-Analysis-I-Zakon-1-30-11-OTC.pdf)
     (PDF)  
       
      Instructions: Please scroll down to page 269, and work through
@@ -129,7 +129,7 @@ id="4.1.2"></span> 
     Link: University of California, San Diego: Jiri Lebl’s *Basic
     Analysis: Introduction to Real Analysis:* [“Chapter 4, Section 2:
     Mean Value
-    Theorem”](http://www.saylor.org/site/wp-content/uploads/2013/06/MA241-BasicAnalysis-JiriLebl-6.3.2013.pdf)
+    Theorem”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/MA241-BasicAnalysis-JiriLebl-6.3.2013.pdf)
     (PDF)  
       
      Instructions: Please read section 4.2 on pages 135-139.  
@@ -146,7 +146,7 @@ id="4.1.2"></span> 
     Link: University of California, San Diego: Jiri Lebl’s *Basic
     Analysis: Introduction to Real Analysis*: [“Chapter 4, Section 2.6:
     Mean Value Theorem:
-    Exercises”](http://www.saylor.org/site/wp-content/uploads/2013/06/MA241-BasicAnalysis-JiriLebl-6.3.2013.pdf)
+    Exercises”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/MA241-BasicAnalysis-JiriLebl-6.3.2013.pdf)
     (PDF)  
       
      Instructions: Please work through problems 2-7 on page 140. Because
@@ -190,7 +190,7 @@ id="4.1.2"></span> 
     Link: University of California, San Diego: Jiri Lebl’s *Basic
     Analysis: Introduction to Real Analysis:* [“Chapter 5, Section
     1: The Riemann
-    Integral”](http://www.saylor.org/site/wp-content/uploads/2013/06/MA241-BasicAnalysis-JiriLebl-6.3.2013.pdf)
+    Integral”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/MA241-BasicAnalysis-JiriLebl-6.3.2013.pdf)
     (PDF)  
       
      Instructions: Read “The Riemann Integral” on pages 147-154.  
@@ -208,7 +208,7 @@ id="4.1.2"></span> 
     Link: University of California, San Diego: Jiri Lebl’s *Basic
     Analysis: Introduction to Real Analysis*: [“Chapter 5, Section 2:
     Properties of the
-    Integral”](http://www.saylor.org/site/wp-content/uploads/2013/06/MA241-BasicAnalysis-JiriLebl-6.3.2013.pdf)
+    Integral”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/MA241-BasicAnalysis-JiriLebl-6.3.2013.pdf)
     (PDF)  
       
      Instructions: Read “Properties of the Integral” on pages 156-161.  
@@ -226,7 +226,7 @@ id="4.1.2"></span> 
     Link: University of California, San Diego: Jiri Lebl’s *Basic
     Analysis: Introduction to Real Analysis*: [“Chapter 5, Section 3:
     Fundamental Theorem of
-    Calculus”](http://www.saylor.org/site/wp-content/uploads/2013/06/MA241-BasicAnalysis-JiriLebl-6.3.2013.pdf)
+    Calculus”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/MA241-BasicAnalysis-JiriLebl-6.3.2013.pdf)
     (PDF)  
       
      Instructions: Read “Fundamental Theorem of Calculus” on pages
@@ -269,7 +269,7 @@ id="4.3"></span> 
     Link: University of California, San Diego: Jiri Lebl’s *Basic
     Analysis: Introduction to Real Analysis*: [“Chapter 6, Section 2:
     Interchange of
-    Limits”](http://www.saylor.org/site/wp-content/uploads/2013/06/MA241-BasicAnalysis-JiriLebl-6.3.2013.pdf)
+    Limits”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/MA241-BasicAnalysis-JiriLebl-6.3.2013.pdf)
     (PDF)  
       
      Instructions: Read “Interchange of Limits” on pages 195-199.  
@@ -287,7 +287,7 @@ id="4.3"></span> 
     Link: The Trillia Group: Elias Zakon’s *Mathematical Analysis
     I*: [“Chapter 4: Function Limits and Continuity: Section
     12: Sequences and Series of
-    Functions”](http://www.saylor.org/site/wp-content/uploads/2012/02/Real-Analysis-I-Zakon-1-30-11-OTC.pdf)
+    Functions”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/Real-Analysis-I-Zakon-1-30-11-OTC.pdf)
     (PDF)  
       
      Instructions: Please read “Sequences and Series of Functions” on
@@ -334,7 +334,7 @@ id="4.3"></span> 
     Link: The Trillia Group: Elias Zakon’s *Mathematical Analysis
     I*: [“Chapter 4: Function Limits and Continuity: Section
     13: Absolutely Convergent Series and Power
-    Series”](http://www.saylor.org/site/wp-content/uploads/2012/02/Real-Analysis-I-Zakon-1-30-11-OTC.pdf)
+    Series”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/Real-Analysis-I-Zakon-1-30-11-OTC.pdf)
     (PDF)  
       
      Instructions: Please read the indicated section on pages 237-244.  
@@ -378,7 +378,7 @@ id="4.3"></span> 
     Link: The Trillia Group: Elias Zakon’s *Mathematical Analysis I*:
     [“Chapter 5: Differentiation and Antidifferentiation: Section
     6: Differentials; Taylor’s Theorem and Taylor
-    Series”](http://www.saylor.org/site/wp-content/uploads/2012/02/Real-Analysis-I-Zakon-1-30-11-OTC.pdf)
+    Series”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/Real-Analysis-I-Zakon-1-30-11-OTC.pdf)
     (PDF)  
       
      Instructions: Please read the indicated section on pages 288-296.  

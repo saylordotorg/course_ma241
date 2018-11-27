@@ -58,7 +58,7 @@ Upon successful completion of this unit, you will be able to:
     Spaces”**
     Link: The Trillia Group: Elias Zakon’s *Mathematical Analysis I*:
     [“Chapter 3: Vector Spaces and Metric Spaces: Section 11: Metric
-    Spaces”](http://www.saylor.org/site/wp-content/uploads/2012/02/Real-Analysis-I-Zakon-1-30-11-OTC.pdf)
+    Spaces”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/Real-Analysis-I-Zakon-1-30-11-OTC.pdf)
     (PDF)  
       
      Instructions: Please read the “Metric Spaces” section on pages
@@ -94,7 +94,7 @@ Upon successful completion of this unit, you will be able to:
     Link: The Trillia Group: Elias Zakon’s *Mathematical Analysis I*:
     [“Chapter 3: Vector Spaces and Metric Spaces: Section 11: Problems
     on Metric
-    Spaces](http://www.saylor.org/site/wp-content/uploads/2012/02/Real-Analysis-I-Zakon-1-30-11-OTC.pdf)[”](http://www.saylor.org/site/wp-content/uploads/2012/02/Real-Analysis-I-Zakon-1-30-11-OTC.pdf)
+    Spaces](https://resources.saylor.org/archived/wp-content/uploads/2012/02/Real-Analysis-I-Zakon-1-30-11-OTC.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/Real-Analysis-I-Zakon-1-30-11-OTC.pdf)
     (PDF)  
       
      Instructions: Please scroll down to page 98, and work through
@@ -113,7 +113,7 @@ Upon successful completion of this unit, you will be able to:
     Link: The Trillia Group: Elias Zakon’s *Mathematical Analysis I*:
     [“Chapter 3: Vector Spaces and Metric Spaces: Section 12: Open and
     Closed Sets;
-    Neighborhoods](http://www.saylor.org/site/wp-content/uploads/2012/02/Real-Analysis-I-Zakon-1-30-11-OTC.pdf)[”](http://www.saylor.org/site/wp-content/uploads/2012/02/Real-Analysis-I-Zakon-1-30-11-OTC.pdf)
+    Neighborhoods](https://resources.saylor.org/archived/wp-content/uploads/2012/02/Real-Analysis-I-Zakon-1-30-11-OTC.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/Real-Analysis-I-Zakon-1-30-11-OTC.pdf)
     (PDF)  
       
      Instructions: Please read the “Open and Closed Sets; Neighborhoods”
@@ -131,7 +131,7 @@ Upon successful completion of this unit, you will be able to:
     Link: The Trillia Group: Elias Zakon’s *Mathematical Analysis I*:
     [“Chapter 3: Vector Spaces and Metric Spaces: Section 12: Problems
     on Neighborhoods, Open and Closed
-    Sets](http://www.saylor.org/site/wp-content/uploads/2012/02/Real-Analysis-I-Zakon-1-30-11-OTC.pdf)[”](http://www.saylor.org/site/wp-content/uploads/2012/02/Real-Analysis-I-Zakon-1-30-11-OTC.pdf)
+    Sets](https://resources.saylor.org/archived/wp-content/uploads/2012/02/Real-Analysis-I-Zakon-1-30-11-OTC.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/Real-Analysis-I-Zakon-1-30-11-OTC.pdf)
     (PDF)  
       
      Instructions: Please scroll down to page 107, and work through
@@ -150,7 +150,7 @@ Upon successful completion of this unit, you will be able to:
     Link: The Trillia Group: Elias Zakon’s *Mathematical Analysis I*:
     [“Chapter 3: Vector Spaces and Metric Spaces: Section 13: Bounded
     Sets;
-    Diameters](http://www.saylor.org/site/wp-content/uploads/2012/02/Real-Analysis-I-Zakon-1-30-11-OTC.pdf)[”](http://www.saylor.org/site/wp-content/uploads/2012/02/Real-Analysis-I-Zakon-1-30-11-OTC.pdf)
+    Diameters](https://resources.saylor.org/archived/wp-content/uploads/2012/02/Real-Analysis-I-Zakon-1-30-11-OTC.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/Real-Analysis-I-Zakon-1-30-11-OTC.pdf)
     (PDF)  
       
      Instructions: Please read the “Bounded Sets; Diameters” section on
@@ -168,7 +168,7 @@ Upon successful completion of this unit, you will be able to:
     Link: The Trillia Group: Elias Zakon’s *Mathematical Analysis I*:
     [“Chapter 3: Vector Spaces and Metric Spaces: Section 13: Problems
     on Boundedness and
-    Diameters](http://www.saylor.org/site/wp-content/uploads/2012/02/Real-Analysis-I-Zakon-1-30-11-OTC.pdf)[”](http://www.saylor.org/site/wp-content/uploads/2012/02/Real-Analysis-I-Zakon-1-30-11-OTC.pdf)
+    Diameters](https://resources.saylor.org/archived/wp-content/uploads/2012/02/Real-Analysis-I-Zakon-1-30-11-OTC.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/Real-Analysis-I-Zakon-1-30-11-OTC.pdf)
     (PDF)  
       
      Instructions: Please scroll down to page 112, and work through
@@ -187,7 +187,7 @@ Upon successful completion of this unit, you will be able to:
     Link: The Trillia Group: Elias Zakon’s *Mathematical Analysis I*:
     [“Chapter 3: Vector Spaces and Metric Spaces: Section 14: Cluster
     Points; Convergent
-    Sequences](http://www.saylor.org/site/wp-content/uploads/2012/02/Real-Analysis-I-Zakon-1-30-11-OTC.pdf)[”](http://www.saylor.org/site/wp-content/uploads/2012/02/Real-Analysis-I-Zakon-1-30-11-OTC.pdf)
+    Sequences](https://resources.saylor.org/archived/wp-content/uploads/2012/02/Real-Analysis-I-Zakon-1-30-11-OTC.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/Real-Analysis-I-Zakon-1-30-11-OTC.pdf)
     (PDF)  
       
      Instructions: Please read the “Cluster Points; Convergent
@@ -226,7 +226,7 @@ Upon successful completion of this unit, you will be able to:
     Link: The Trillia Group: Elias Zakon’s *Mathematical Analysis I*:
     [“Chapter 3: Vector Spaces; Metric Spaces: Section 14: Problems on
     Cluster Points and
-    Convergence](http://www.saylor.org/site/wp-content/uploads/2012/02/Real-Analysis-I-Zakon-1-30-11-OTC.pdf)[”](http://www.saylor.org/site/wp-content/uploads/2012/02/Real-Analysis-I-Zakon-1-30-11-OTC.pdf)
+    Convergence](https://resources.saylor.org/archived/wp-content/uploads/2012/02/Real-Analysis-I-Zakon-1-30-11-OTC.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/Real-Analysis-I-Zakon-1-30-11-OTC.pdf)
     (PDF)  
       
      Instructions: Please scroll down to page 118, and work through
@@ -245,7 +245,7 @@ Upon successful completion of this unit, you will be able to:
     Link: The Trillia Group: Elias Zakon’s *Mathematical Analysis I*:
     [“Chapter 3: Vector Spaces and Metric Spaces: Section 15: Operations
     on Convergent
-    Sequences](http://www.saylor.org/site/wp-content/uploads/2012/02/Real-Analysis-I-Zakon-1-30-11-OTC.pdf)[”](http://www.saylor.org/site/wp-content/uploads/2012/02/Real-Analysis-I-Zakon-1-30-11-OTC.pdf)
+    Sequences](https://resources.saylor.org/archived/wp-content/uploads/2012/02/Real-Analysis-I-Zakon-1-30-11-OTC.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/Real-Analysis-I-Zakon-1-30-11-OTC.pdf)
     (PDF)  
       
      Instructions: Please read the indicated section on pages 120-123.  
@@ -278,7 +278,7 @@ Upon successful completion of this unit, you will be able to:
     Link: The Trillia Group: Elias Zakon’s *Mathematical Analysis I*:
     [“Chapter 3: Vector Spaces and Metric Spaces: Section 15: Problems
     on Limits of
-    Sequences](http://www.saylor.org/site/wp-content/uploads/2012/02/Real-Analysis-I-Zakon-1-30-11-OTC.pdf)[”](http://www.saylor.org/site/wp-content/uploads/2012/02/Real-Analysis-I-Zakon-1-30-11-OTC.pdf)
+    Sequences](https://resources.saylor.org/archived/wp-content/uploads/2012/02/Real-Analysis-I-Zakon-1-30-11-OTC.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/Real-Analysis-I-Zakon-1-30-11-OTC.pdf)
     (PDF)  
       
      Instructions: Please scroll down to page 123, and work through
@@ -297,7 +297,7 @@ Upon successful completion of this unit, you will be able to:
     Link: The Trillia Group: Elias Zakon’s *Mathematical Analysis I*:
     [“Chapter 3: Vector Spaces and Metric Spaces: Section 16: More on
     Cluster Points and Closed Sets;
-    Density](http://www.saylor.org/site/wp-content/uploads/2012/02/Real-Analysis-I-Zakon-1-30-11-OTC.pdf)[”](http://www.saylor.org/site/wp-content/uploads/2012/02/Real-Analysis-I-Zakon-1-30-11-OTC.pdf)
+    Density](https://resources.saylor.org/archived/wp-content/uploads/2012/02/Real-Analysis-I-Zakon-1-30-11-OTC.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/Real-Analysis-I-Zakon-1-30-11-OTC.pdf)
     (PDF)  
       
      Instructions: Please read the “More on Cluster Points and Closed
@@ -336,7 +336,7 @@ Upon successful completion of this unit, you will be able to:
     Link: The Trillia Group: Elias Zakon’s *Mathematical Analysis I*:
     [“Chapter 3: Vector Spaces and Metric Spaces: Section 16: Problems
     on Cluster Points, Closed Sets, and
-    Density](http://www.saylor.org/site/wp-content/uploads/2012/02/Real-Analysis-I-Zakon-1-30-11-OTC.pdf)[”](http://www.saylor.org/site/wp-content/uploads/2012/02/Real-Analysis-I-Zakon-1-30-11-OTC.pdf)
+    Density](https://resources.saylor.org/archived/wp-content/uploads/2012/02/Real-Analysis-I-Zakon-1-30-11-OTC.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/Real-Analysis-I-Zakon-1-30-11-OTC.pdf)
     (PDF)  
       
      Instructions: Please scroll down to page 140, and work through
@@ -355,7 +355,7 @@ Upon successful completion of this unit, you will be able to:
     Link: The Trillia Group: Elias Zakon’s *Mathematical Analysis I*:
     [“Chapter 4: Function Limits and Continuity: Section 6: Compact Sets
     and Section 7: More on
-    Compactness](http://www.saylor.org/site/wp-content/uploads/2012/02/Real-Analysis-I-Zakon-1-30-11-OTC.pdf)[”](http://www.saylor.org/site/wp-content/uploads/2012/02/Real-Analysis-I-Zakon-1-30-11-OTC.pdf)
+    Compactness](https://resources.saylor.org/archived/wp-content/uploads/2012/02/Real-Analysis-I-Zakon-1-30-11-OTC.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/Real-Analysis-I-Zakon-1-30-11-OTC.pdf)
     (PDF)  
       
      Instructions: Please read the indicated sections on pages 186-189
@@ -428,7 +428,7 @@ id="2.3"></span> 
     Link: The Trillia Group: Elias Zakon’s *Mathematical Analysis I*:
     [“Chapter 3: Vector Spaces and Metric Spaces: Section 17: Cauchy
     Sequences;
-    Completeness](http://www.saylor.org/site/wp-content/uploads/2012/02/Real-Analysis-I-Zakon-1-30-11-OTC.pdf)[”](http://www.saylor.org/site/wp-content/uploads/2012/02/Real-Analysis-I-Zakon-1-30-11-OTC.pdf)
+    Completeness](https://resources.saylor.org/archived/wp-content/uploads/2012/02/Real-Analysis-I-Zakon-1-30-11-OTC.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/Real-Analysis-I-Zakon-1-30-11-OTC.pdf)
     (PDF)  
       
      Instructions: Please read the “Cauchy Sequences; Completeness”
@@ -448,7 +448,7 @@ Theorem** <span id="2.3.2"></span> 
     Link: University of California, San Diego: Jiri Lebl’s *Basic
     Analysis: Introduction to Real Analysis*: [“Section 2.3: Limit
     Superior, Limit Inferior, and
-    Bolzano-Weierstrass”](http://www.saylor.org/site/wp-content/uploads/2013/06/MA241-BasicAnalysis-JiriLebl-6.3.2013.pdf)
+    Bolzano-Weierstrass”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/MA241-BasicAnalysis-JiriLebl-6.3.2013.pdf)
     (PDF)  
       
      Instructions: Please read “Limit Superior, Limit Inferior, and
@@ -494,7 +494,7 @@ Theorem** <span id="2.3.2"></span> 
     Analysis: Introduction to Real Analysis*: “Section 2.5: Series”**
     Link: University of California, San Diego: Jiri Lebl’s *Basic
     Analysis: Introduction to Real Analysis*: [“Section 2.5:
-    Series”](http://www.saylor.org/site/wp-content/uploads/2013/06/MA241-BasicAnalysis-JiriLebl-6.3.2013.pdf)
+    Series”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/MA241-BasicAnalysis-JiriLebl-6.3.2013.pdf)
     (PDF)  
       
      Instructions: Please read “Series” on pages 72-81.  
