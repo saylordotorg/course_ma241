@@ -59,7 +59,7 @@ id="1.1"></span> 
     Quantifiers”**
     Link: The Trillia Group: Elias Zakon’s *Mathematical Analysis I*:
     [“Chapter 1: Set Theory: Sections 1-3: Sets and Operations on Sets;
-    Quantifiers”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/Real-Analysis-I-Zakon-1-30-11-OTC.pdf)
+    Quantifiers”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/Real-Analysis-I-Zakon-1-30-11-OTC.pdf)
     (PDF)  
       
      Instructions: Please read the indicated sections, on pages 1-6.
@@ -97,7 +97,7 @@ id="1.1"></span> 
     Definitions”**
     Link: The Trillia Group: Elias Zakon’s *Mathematical Analysis I*:
     [“Chapter 2: Real Numbers and Fields: Sections 1-4: Axioms and Basic
-    Definitions”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/Real-Analysis-I-Zakon-1-30-11-OTC.pdf)
+    Definitions”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/Real-Analysis-I-Zakon-1-30-11-OTC.pdf)
     (PDF)  
       
      Instructions: Please read Sections 1-4, “Axioms and Basic
@@ -115,7 +115,7 @@ id="1.1"></span> 
     Rationals”**
     Link: The Trillia Group: Elias Zakon’s *Mathematical Analysis I*:
     [“Chapter 2: Real Numbers and Fields: Section 7: Integers and
-    Rationals”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/Real-Analysis-I-Zakon-1-30-11-OTC.pdf)
+    Rationals”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/Real-Analysis-I-Zakon-1-30-11-OTC.pdf)
     (PDF)  
       
      Instructions: Please read Section 7, “Integers and Rationals,” on
@@ -167,7 +167,7 @@ id="1.1"></span> 
     Link: The Trillia Group: Elias Zakon’s *Mathematical Analysis I*:
     [“Chapter 2: Real Numbers and Fields: Sections 8-9: Upper and Lower
     Bounds and
-    Completeness”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/Real-Analysis-I-Zakon-1-30-11-OTC.pdf)
+    Completeness”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/Real-Analysis-I-Zakon-1-30-11-OTC.pdf)
     (PDF)  
       
      Instructions: Please read Sections 8-9, “Upper and Lower Bounds and
@@ -186,7 +186,7 @@ id="1.1"></span> 
     Link: The Trillia Group: Elias Zakon’s *Mathematical Analysis I*:
     [“Chapter 2: Real Numbers and Fields: Section 10: Some Consequences
     of the Completeness
-    Axiom”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/Real-Analysis-I-Zakon-1-30-11-OTC.pdf)
+    Axiom”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/Real-Analysis-I-Zakon-1-30-11-OTC.pdf)
     (PDF)  
       
      Instructions: Please read “Some Consequences of the Completeness
@@ -228,7 +228,7 @@ id="1.1"></span> 
     Link: University of California, San Diego: Jiri Lebl’s *Basic
     Analysis: Introduction to Real Analysis*: [“Exercise 1.2.5: Real
     Numbers: The Set of Real Numbers:
-    Exercises”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/MA241-BasicAnalysis-JiriLebl-6.3.2013.pdf) (PDF)  
+    Exercises”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/06/MA241-BasicAnalysis-JiriLebl-6.3.2013.pdf) (PDF)  
       
      Instructions: Please work through the exercises on page 30 of this
     PDF. Because this resource is used by some institutions of higher
@@ -250,7 +250,7 @@ id="1.1"></span> 
     Link: The Trillia Group: Elias Zakon’s *Mathematical Analysis I*:
     [“Chapter 2: Real Numbers and Fields: Sections 11-12: Powers with
     Arbitrary Real Exponents and
-    Irrationals”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/Real-Analysis-I-Zakon-1-30-11-OTC.pdf)
+    Irrationals”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/Real-Analysis-I-Zakon-1-30-11-OTC.pdf)
     (PDF)  
       
      Instructions: Please read “Powers with Arbitrary Real Exponents and
@@ -269,7 +269,7 @@ id="1.1"></span> 
     Link: The Trillia Group: Elias Zakon’s *Mathematical Analysis I*:
     [“Chapter 2: Real Numbers and Fields: Sections 5-6: Natural Numbers
     and
-    Induction”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/Real-Analysis-I-Zakon-1-30-11-OTC.pdf)
+    Induction”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/Real-Analysis-I-Zakon-1-30-11-OTC.pdf)
     (PDF)  
       
      Instructions: Please read the “Natural Numbers and Induction”
@@ -304,7 +304,7 @@ id="1.1"></span> 
     Link: University of California, San Diego: Jiri Lebl’s *Basic
     Analysis: Introduction to Real Analysis*: [“Section 1.3: Real
     Numbers: Absolute
-    Value”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/MA241-BasicAnalysis-JiriLebl-6.3.2013.pdf)
+    Value”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/06/MA241-BasicAnalysis-JiriLebl-6.3.2013.pdf)
     (PDF)  
       
      Instructions: Please read Section 1.3, “Absolute Value,” on pages
@@ -324,7 +324,7 @@ id="1.1"></span> 
     Link: University of California, San Diego: Jiri Lebl’s *Basic
     Analysis: Introduction to Real Analysis*: [“Section 1.3.1: Absolute
     Value:
-    Exercises”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/MA241-BasicAnalysis-JiriLebl-6.3.2013.pdf) (PDF)  
+    Exercises”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/06/MA241-BasicAnalysis-JiriLebl-6.3.2013.pdf) (PDF)  
       
      Instructions: Work through the exercises on page 34. Because this
     resource is used by some institutions of higher learning for the
@@ -346,7 +346,7 @@ id="1.1"></span> 
     Link: University of California, San Diego: Jiri Lebl’s *Basic
     Analysis: Introduction to Real Analysis*: [“Section 1.4: Intervals
     and the Size of
-    R”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/MA241-BasicAnalysis-JiriLebl-6.3.2013.pdf)
+    R”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/06/MA241-BasicAnalysis-JiriLebl-6.3.2013.pdf)
     (PDF)  
       
      Instructions: Please read the indicated section, on pages 35 and
@@ -364,7 +364,7 @@ id="1.1"></span> 
     “Chapter 1: Set Theory: Sections 4-7: Relations; Mappings”**
     Link: The Trillia Group: Elias Zakon’s *Mathematical Analysis
     I*: [“Chapter 1: Set Theory: Sections 4-7: Relations;
-    Mappings”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/Real-Analysis-I-Zakon-1-30-11-OTC.pdf)
+    Mappings”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/Real-Analysis-I-Zakon-1-30-11-OTC.pdf)
     (PDF)  
       
      Instructions: Please read “Relations; Mappings” on pages 8-14.  
@@ -381,7 +381,7 @@ id="1.1"></span> 
     Sets”**
     Link: The Trillia Group: Elias Zakon’s *Mathematical Analysis
     I*: [“Chapter 1: Set Theory: Section 9: Some Theorems on Countable
-    Sets”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/Real-Analysis-I-Zakon-1-30-11-OTC.pdf)
+    Sets”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/Real-Analysis-I-Zakon-1-30-11-OTC.pdf)
     (PDF)  
       
      Instructions: Please read “Some Theorems on Countable Sets” on
@@ -428,7 +428,7 @@ id="1.1"></span> 
     Link: University of California, San Diego: Jiri Lebl’s *Basic
     Analysis: Introduction to Real Analysis*: [“Exercise 1.4.1: Real
     Numbers: Intervals and the Size of R:
-    Exercises”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/MA241-BasicAnalysis-JiriLebl-6.3.2013.pdf) (PDF)  
+    Exercises”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/06/MA241-BasicAnalysis-JiriLebl-6.3.2013.pdf) (PDF)  
       
      Work through the problems on pages 36 and 37. Because this resource
     is used by some institutions of higher learning for the purposes of
